@@ -1,0 +1,26 @@
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.aqua {
+    background-color: aqua;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+.green {
+    background-color: green;
+}
